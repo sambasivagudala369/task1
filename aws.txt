@@ -1,0 +1,93 @@
+Here’s a simplified and clearer version of your definitions for your viva:
+
+### Hybrid Cloud
+A hybrid cloud combines private (in-house) and public (third-party) cloud services to give more flexibility in resource management.
+
+### SaaS (Software as a Service)
+SaaS is a model where software is delivered over the internet, allowing organizations to provide services to customers easily and efficiently.
+
+### Elasticity
+Elasticity in AWS means the ability to automatically adjust computing resources based on demand, ensuring you only use what you need.
+
+### Durability
+Cloud storage is designed to be extremely reliable, with a durability of 99.999999999% (11 nines), meaning your data is very safe.
+
+### Availability
+Availability means your services and tools can be accessed by customers and employees anytime, anywhere, on any device with internet access.
+
+### AWS Global Infrastructure
+AWS Global Infrastructure is a secure and extensive cloud platform that offers over 200 services through data centers around the world.
+
+### IAM Policy
+An IAM policy is a set of rules that define who can perform specific actions in an AWS account.
+
+### IAM Role
+An IAM role is a set of permissions that allows a user or application to perform certain actions on AWS resources.
+
+### AWS Shared Responsibility Model
+This model outlines the shared responsibilities between AWS and customers for security and compliance.
+
+### VPC (Virtual Private Cloud)
+A VPC is a private, isolated section of the AWS cloud where you can launch resources and have full control over your network configuration.
+
+### EC2 (Elastic Compute Cloud)
+EC2 provides scalable computing capacity in the AWS cloud, allowing you to run applications without worrying about hardware costs.
+
+### Lambda
+AWS Lambda lets you run code without managing servers, making it easy to build applications in a serverless environment.
+
+### AWS Elastic Beanstalk
+Elastic Beanstalk helps developers deploy and manage web applications on AWS quickly and easily.
+
+### Amazon EBS (Elastic Block Store)
+EBS provides persistent block storage for EC2 instances, ensuring data is safe even if the instance is stopped.
+
+### Amazon S3 (Simple Storage Service)
+S3 is scalable cloud object storage designed for data availability, security, and performance.
+
+### S3 Glacier
+S3 Glacier is a low-cost storage solution designed for archiving data, providing flexible retrieval options.
+
+### RDS (Relational Database Service)
+RDS is a managed cloud database service that simplifies operating and scaling relational databases.
+
+### DynamoDB
+DynamoDB is a fully-managed NoSQL database service that offers fast and predictable performance.
+
+### Elastic Load Balancing
+Elastic Load Balancing automatically distributes incoming traffic across multiple targets like EC2 instances to ensure reliability.
+
+### Auto Scaling
+Auto Scaling adjusts your application’s capacity automatically to maintain performance while minimizing costs.
+
+### Amazon CloudWatch
+CloudWatch monitors your applications and infrastructure, providing tools to respond to issues and improve efficiency.
+
+### AWS SDK (Software Development Kit)
+An SDK is a collection of tools that helps developers create applications for a specific platform.
+
+### AWS CLI (Command Line Interface)
+The AWS CLI lets users control AWS services through commands in a command-line interface.
+
+### API Gateway
+API Gateway acts as a front door, allowing applications to access data and functionality from backend services.
+
+### Docker Container
+A Docker container is a lightweight package that includes everything needed to run an application, like code and libraries.
+
+### AWS ECR (Elastic Container Registry)
+ECR is a managed Docker container registry that simplifies storing and sharing container images.
+
+### ElastiCache
+ElastiCache is a managed service for Redis and Memcached that provides fast performance for applications.
+
+### Redis
+Redis on AWS offers fast data processing with high availability and cost savings.
+
+### SNS (Simple Notification Service)
+SNS is a messaging service that enables communication between different applications or directly with users.
+
+### Step Functions
+AWS Step Functions allows you to create workflows to automate processes and build distributed applications.
+
+Feel free to adjust any specific terms or details further!
